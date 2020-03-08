@@ -1,0 +1,22 @@
+{
+  "name": "lodash-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crashdaddy/Lodash-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crashdaddy/Lodash-Practice/issues"
+  },
+  "homepage": "https://github.com/crashdaddy/Lodash-Practice#readme",
+  "dependencies": {
+    "lodash": "file:lodash"
+  }
+}
